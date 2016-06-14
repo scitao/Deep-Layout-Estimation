@@ -1,0 +1,3 @@
+[submodule "deeplab-public"]
+	path = deeplab-public
+	url = https://bitbucket.org/deeplab/deeplab-public.git
